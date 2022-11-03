@@ -22,5 +22,5 @@ The survey questions were analyzed for:
 <li>Two fifths of participants reported they perceived that they consumed more high fat, salt, and sugar (HFSS) foods than pre-pandemic.</li>
 
 ## Skills Used
-<li>Data vizuals in Microsoft Excel</li>
+<li>Data visuals in Microsoft Excel</li>
 <li>Imported data from Qualtrics into Microsoft Excel</li>

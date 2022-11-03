@@ -1,4 +1,5 @@
 # Projects-by-Jason-Zhang
+[Research_Presentation.pptx](https://github.com/zjzhang17/Projects-by-Jason-Zhang/files/9925008/Research_Presentation.pptx)
 
 ## Problem & Background
 <li>The COVID-19 pandemic outbreak caused by SARS-2 is a human to human spread virus that has caused major health and safety concerns resulting in social restrictions that may have affected people’s nutrition and exercise behaviors.</li>  
@@ -24,5 +25,3 @@ The survey questions were analyzed for:
 ## Skills Used
 <li>Data visuals in Microsoft Excel</li>
 <li>Imported data from Qualtrics into Microsoft Excel</li>
-
-[Research_Presentation.pptx](https://github.com/zjzhang17/Projects-by-Jason-Zhang/files/9925008/Research_Presentation.pptx)

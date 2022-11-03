@@ -16,9 +16,9 @@ The survey questions were analyzed for:
 <li>Perceived differences in type and frequency of exercise pre-COVID-19 pandemic vs. during the pandemic.</li>
 <Li>Perceived motivators and barriers to adults’ nutrition and exercise habits during the COVID-19 pandemic.</li>
 
-![Screen Shot 2022-11-02 at 9 03 29 PM](https://user-images.githubusercontent.com/116914452/199629676-980dc8d6-10dd-47f8-bd95-b86dd38fde69.png)
-![Screen Shot 2022-11-02 at 9 02 34 PM](https://user-images.githubusercontent.com/116914452/199629681-33cd9313-b867-4c48-a950-0553c64f1255.png)
-![Screen Shot 2022-11-02 at 9 01 52 PM](https://user-images.githubusercontent.com/116914452/199629690-b7eceec3-b926-4fcc-a16a-cad4d90fd6d2.png)
+![Screen Shot 2022-11-02 at 9 01 52 PM](https://user-images.githubusercontent.com/116914452/199629839-1b23c61f-ae39-45f4-b21a-6ff4979e83ea.png)
+![Screen Shot 2022-11-02 at 9 02 34 PM](https://user-images.githubusercontent.com/116914452/199629852-99dcd70b-3e35-4705-9d69-571f8d1bb451.png)
+![Screen Shot 2022-11-02 at 9 03 29 PM](https://user-images.githubusercontent.com/116914452/199629854-5af7c97b-43f4-44f3-93ba-9a0a194e8a5f.png)
 
 ## Discussion & Conclusion
 <li>The majority of adults that participated in exercise during the pandemic reported higher frequency of at home and outdoor workouts than before the pandemic.</li>

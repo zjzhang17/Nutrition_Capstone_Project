@@ -1,4 +1,4 @@
-# Projects-by-Jason-Zhang
+# Nutrition Research Capstone Project
 [Research_Presentation.pptx](https://github.com/zjzhang17/Projects-by-Jason-Zhang/files/9925008/Research_Presentation.pptx)
 
 ## Problem & Background
